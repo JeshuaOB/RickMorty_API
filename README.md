@@ -1,4 +1,5 @@
 <h1>RickMorty_API</h1>
+<h2>Contenido del repositorio</h2>
 <p>
 Este repositorio se divide en dos proyectos:
 <ul>
@@ -14,5 +15,5 @@ Este repositorio se divide en dos proyectos:
 </ul></li>
 </ul>
 </p>
-<br>
+<h2>Actualización</h2>
 <p>📅 Ultima modificación: <strong>24/08/2021</strong></p>
