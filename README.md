@@ -1,4 +1,3 @@
-<img style="display: flex; margin: 0 auto; width: 180px;" src="https://jeshuaob.dev/img/logo.png" alt="">
 <h1>RickMorty_API</h1>
 <p style="text-align:justify;">
 Este repositorio se divide en dos proyectos:
@@ -14,4 +13,3 @@ Este repositorio se divide en dos proyectos:
 </ul></li>
 </ul>
 </p>
-<img style="display: flex; margin: 0 auto; width: 30px;" src="https://jeshuaob.dev/img/favicon.png" alt="">
