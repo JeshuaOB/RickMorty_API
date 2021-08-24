@@ -15,5 +15,6 @@ Este repositorio se divide en dos proyectos:
 </ul></li>
 </ul>
 </p>
-<h2>Actualización</h2>
+<h2>Estado</h2>
+<p><strong>✔️ FINALIZADO</strong></p>
 <p>📅 Ultima modificación: <strong>24/08/2021</strong></p>
